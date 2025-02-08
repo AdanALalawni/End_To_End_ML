@@ -1,5 +1,7 @@
 import sys 
-import logging
+from logger import logging
+
+
 def error_masseges(error, error_detail:sys):
     """Create Custom error masseges"""
     _,_,exp_tb = error_detail.exc_info()
