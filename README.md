@@ -1,6 +1,3 @@
-Here's your updated README file with detailed project structure, including filenames and their usages.  
-
----
 
 # End-To-End Machine Learning Project
 
