@@ -82,10 +82,5 @@ The application will be accessible at `http://127.0.0.1:5000/`.
 
 The project includes a trained machine learning model deployed via a Flask web application. Users can interact with the model through the web interface to make predictions.
 
-![Application Screenshot](asserts/screenshot.png)
+![Application Screenshot]([asserts/screenshot.png](https://github.com/AdanALalawni/End_To_End_ML/blob/main/asserts/Screenshot%20.png))
 
-*Note: Ensure that the `asserts` directory contains the `app_screenshot.png` file for the above image to display correctly.*
-
----
-
-This README file provides a clear overview of the project, its structure, and how to run it. Let me know if you need any modifications! 🚀
