@@ -1,5 +1,7 @@
 import sys 
-from logger import logging
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from src.logger import logging
 
 
 def error_masseges(error, error_detail:sys):
