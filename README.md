@@ -82,5 +82,5 @@ The application will be accessible at `http://127.0.0.1:5000/`.
 
 The project includes a trained machine learning model deployed via a Flask web application. Users can interact with the model through the web interface to make predictions.
 
-![Application Screenshot]([asserts/screenshot.png](https://github.com/AdanALalawni/End_To_End_ML/blob/main/asserts/Screenshot%20.png))
+![Application Screenshot](https://github.com/AdanALalawni/End_To_End_ML/blob/main/asserts/Screenshot%20.png)
 
